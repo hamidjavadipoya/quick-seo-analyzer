@@ -13,18 +13,16 @@ A lightweight, efficient Command Line Interface (CLI) tool designed for web deve
 
 Clone the repository and install the required dependencies:
 
-```bash
+```
 git clone [https://github.com/hamidjavadipoya/quick-seo-analyzer.git](https://github.com/hamidjavadipoya/quick-seo-analyzer.git)
 cd quick-seo-analyzer
-pip install beautifulsoup4 requests
-Usage 🛠️
-​Run the script from your terminal by providing the target website URL:
-python seo_analyzer.py [https://example.com](https://example.com)
+pip install beautifulsoup4 requests```
+
 Future Roadmap 🗺️
 ​Add automated XML Sitemap and Robots.txt status validation.
 ​Implement Core Web Vitals quick-check capabilities.
 ​AI Integration: Integrate Anthropic's Claude API to generate intelligent, automated on-page SEO optimization suggestions and comprehensive content recommendations based on the technical audit output.
 ​License 📄
 ​This project is open-source and available under the MIT License.
-## Contact 📧
-You can reach me at: hamidjavadipoya@gmail.com
+​Contact 📧
+​You can reach me at: hamidjavadipoya@gmail.com
